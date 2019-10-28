@@ -1,0 +1,9 @@
+/*
+ * First C program that says Hello (Hello.c)
+ */
+#include <stdio.h>  // Needed to perform IO operations
+ 
+int main() {                    // Program entry point
+    printf("Hello, world!\n");  // Says Hello
+    return 0;                   // Terminate main()
+}     
